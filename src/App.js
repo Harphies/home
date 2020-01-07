@@ -354,16 +354,16 @@ class Footer extends Component {
         <a
           className=" badge badge-dark"
           target="_blank"
-          href={"https://github.com/hashirshoaeb"}
+          href={"https://github.com/harphies"}
         >
-          Hashir Shoaib
+          Harphies
         </a>{" "}
         using <i className="fab fa-react"></i>
         <p>
           <small className="text-muted">
             {" "}
-            Project code is open source. Feel free to fork and make your own
-            version.
+            If you are not feeling stupid daily you are not growing || If you
+            know you can't fail, what would you do right now??.
           </small>
         </p>
       </footer>
