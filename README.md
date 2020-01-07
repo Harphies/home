@@ -1,6 +1,6 @@
 # hashirshoaeb.github.io/home
 
-It is a personal static website/portfolio hosted with GitHub Pages, build to showcase my recent projects. Site URL / Demo: [hashirshoaeb.github.io/home](https://hashirshoaeb.github.io/home).
+It is a personal static website/portfolio hosted with GitHub Pages, build to showcase my recent projects. Site URL / Demo: [harphies.github.io/home](https://harphies.github.io/home).
 
 ## Dependencies
 
